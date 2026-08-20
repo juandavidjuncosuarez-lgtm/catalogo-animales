@@ -1,0 +1,17 @@
+catalogo animales
+
+leon
+habitat: sabana
+alimentacion: carnivoro
+
+elefante
+habitat: sabana
+alimentacion: herbivoro
+
+delfin
+habitat: oceano
+alimentacion: carnivoro
+
+aguila
+habitat: montañas
+alimentacion: carnivoro
