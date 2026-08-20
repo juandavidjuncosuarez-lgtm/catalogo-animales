@@ -15,3 +15,7 @@ alimentacion: carnivoro
 aguila
 habitat: montañas
 alimentacion: carnivoro
+
+tigre
+habitat: selva
+alimentacion: carnivoro
